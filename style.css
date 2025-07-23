@@ -34,19 +34,19 @@ h1 {
     margin: 10px 0px 10px 0px;
 }
 
-.vermelho:hover {
+.vermelho {
     background-color: red;
 }
 
-.amarelo:hover {
+.amarelo {
     background-color: yellow;
 }
 
-.verde:hover {
+.verde {
     background-color: green;
 }
 
-.automatico:hover {
+.automatico {
     background-color: blue;
 }
 
